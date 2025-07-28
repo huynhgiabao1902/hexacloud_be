@@ -1,0 +1,47 @@
+{
+  "vps": [
+    {
+      "id": "c5775204-962f-4e6c-8b98-cb13f9eeefde",
+      "name": "Ubuntu Production Server",
+      "host": "localhost",
+      "port": 22,
+      "username": "huynhgiabao",
+      "password": "'",
+      "description": "Ubuntu production server with real-time monitoring",
+      "tags": [
+        "ubuntu",
+        "production",
+        "monitored",
+        "live"
+      ],
+      "status": "online",
+      "metrics": {
+        "cpu": 2,
+        "memory": 44,
+        "disk": 29,
+        "network": {
+          "rx": 0,
+          "tx": 0
+        },
+        "uptime": 6385,
+        "load": [
+          0.07,
+          0.07,
+          0.06
+        ],
+        "processes": 0,
+        "systemInfo": {
+          "details": "Linux Ubuntu 6.11.0-28-generic #28~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Fri May 23 10:31:01 UTC 2 x86_64 x86_64 x86_64 GNU/Linux\nDistributor ID:\tUbuntu\nDescription:\tUbuntu 24.04.2 LTS\nRelease:\t24.04\nCodename:\tnoble"
+        }
+      },
+      "systemInfo": {},
+      "createdAt": "2025-06-27T14:54:22.115Z",
+      "lastUpdate": "2025-06-27T15:16:00.783Z",
+      "lastCheck": "2025-06-27T15:16:00.783Z",
+      "isActive": true
+    }
+  ],
+  "lastUpdate": "2025-06-27T15:16:00.783Z",
+  "version": "1.0.0",
+  "servers": []
+}
